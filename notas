@@ -1,0 +1,3 @@
+listas = ["palabra",1,2.5]
+tuplas = ("palabra",1,2.5)
+diccionarios = {"uno": 1, "dos":2}
